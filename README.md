@@ -49,6 +49,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Rankscale.ai](https://rankscale.ai)** – Generative-Engine-Optimisation suite with rank tracking, competitive gaps and a handy AEO/GEO tactics blog.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
+- **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
